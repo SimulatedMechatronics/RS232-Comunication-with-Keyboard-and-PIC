@@ -1,0 +1,22 @@
+[PROJECT]
+Target=receiver.hex
+Processor_Text=PIC16F877A
+CCSVerions=5.015
+Compiler=PCM
+CCSVersion=5.015
+[Target Data]
+FileList=receiver.c
+[Directories]
+Include=C:\Program Files (x86)\PICC\Devices\;C:\Program Files (x86)\PICC\Drivers\
+[D:\Projects\Microcontrollers\Circuito RF\RS232 Comunication with Keyoard and PIC\FirmwareReceiver\receiver]
+Type=4
+[mru-list]
+1=receiver.c
+[Opened Files]
+1=receiver.c
+2=
+[receiver.c]
+Type=4
+[Units]
+Count=1
+1=receiver (main)
